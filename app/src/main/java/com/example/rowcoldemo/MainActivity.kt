@@ -52,6 +52,7 @@ fun MainScreen(modifier: Modifier = Modifier) {
     }
 }
 
+
 @Composable
 fun TextCell(text: String, modifier: Modifier = Modifier) {
     val cellModifier = modifier
